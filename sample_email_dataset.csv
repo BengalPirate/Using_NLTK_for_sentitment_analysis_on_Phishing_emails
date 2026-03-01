@@ -1,0 +1,41 @@
+label,text
+phishing,Urgent: Your account has been compromised. Verify your information immediately to restore access.
+phishing,We detected unusual activity. Click the link below to confirm your identity.
+phishing,Your payment could not be processed. Update your billing details now.
+phishing,Final notice: Failure to respond will result in account suspension.
+phishing,You have received a secure message. Open the attachment to review.
+phishing,Confirm your password to avoid service interruption.
+phishing,Unrecognized login attempt detected. Reset your password now.
+phishing,Your account will be locked within 24 hours. Verify now.
+phishing,We need to validate your email address. Click below to continue.
+phishing,Important security alert regarding your account.
+phishing,Invoice attached for your recent purchase. Review immediately.
+phishing,You are eligible for a refund. Submit your information to claim.
+phishing,Congratulations! You have been selected for a special offer.
+phishing,Your mailbox is almost full. Upgrade storage now.
+phishing,We could not deliver your package. Confirm your address.
+phishing,Action required: Update your credentials.
+phishing,Your tax refund is pending. Verify your details.
+phishing,Your bank account has been temporarily limited.
+phishing,Unexpected transaction detected. Confirm now.
+phishing,Please review the attached document for security reasons.
+safe,"Hi team, please find the meeting agenda attached for tomorrow’s discussion."
+safe,Your library book is due for return next week.
+safe,Reminder: Staff training session scheduled for Friday.
+safe,Thank you for your recent purchase. Your receipt is attached.
+safe,Here are the notes from today’s project meeting.
+safe,Your class registration has been successfully processed.
+safe,Monthly newsletter: Campus events and announcements.
+safe,Your order has shipped and will arrive in 3–5 business days.
+safe,Reminder: Submit your assignment by Sunday.
+safe,Welcome to the student portal. Your account is now active.
+safe,Team lunch scheduled for Thursday at noon.
+safe,Your parking permit renewal is confirmed.
+safe,Thank you for contacting support. We will respond shortly.
+safe,Here is the updated project timeline.
+safe,Invitation: Research seminar next Monday.
+safe,Your appointment has been scheduled.
+safe,Attached is the syllabus for this semester.
+safe,Your password was successfully updated.
+safe,Weekly report: System performance summary.
+safe,Thank you for attending the workshop.

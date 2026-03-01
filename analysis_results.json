@@ -1,0 +1,122 @@
+{
+  "dataset_info": {
+    "total_emails": 40,
+    "phishing_count": 20,
+    "safe_count": 20
+  },
+  "sentiment_analysis": {
+    "avg_phishing_sentiment": 0.10421,
+    "avg_safe_sentiment": 0.167805,
+    "difference": 0.06359500000000001,
+    "phishing_stats": {
+      "min": -0.5719,
+      "max": 0.784,
+      "mean": 0.10421,
+      "std": 0.35912074776276043
+    },
+    "safe_stats": {
+      "min": 0.0,
+      "max": 0.6908,
+      "mean": 0.167805,
+      "std": 0.24812268076604024
+    }
+  },
+  "extreme_examples": {
+    "most_negative": {
+      "label": "phishing",
+      "score": -0.5719,
+      "text": "Confirm your password to avoid service interruption."
+    },
+    "most_positive": {
+      "label": "phishing",
+      "score": 0.784,
+      "text": "Congratulations! You have been selected for a special offer."
+    }
+  },
+  "word_frequency": {
+    "top_phishing_words": [
+      [
+        "account",
+        5
+      ],
+      [
+        "confirm",
+        4
+      ],
+      [
+        "verify",
+        3
+      ],
+      [
+        "detected",
+        3
+      ],
+      [
+        "review",
+        3
+      ],
+      [
+        "information",
+        2
+      ],
+      [
+        "immediately",
+        2
+      ],
+      [
+        "click",
+        2
+      ],
+      [
+        "could",
+        2
+      ],
+      [
+        "update",
+        2
+      ]
+    ],
+    "top_safe_words": [
+      [
+        "attached",
+        3
+      ],
+      [
+        "scheduled",
+        3
+      ],
+      [
+        "thank",
+        3
+      ],
+      [
+        "team",
+        2
+      ],
+      [
+        "meeting",
+        2
+      ],
+      [
+        "next",
+        2
+      ],
+      [
+        "reminder",
+        2
+      ],
+      [
+        "project",
+        2
+      ],
+      [
+        "successfully",
+        2
+      ],
+      [
+        "updated",
+        2
+      ]
+    ]
+  }
+}
