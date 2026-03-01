@@ -534,5 +534,3 @@ Then click **Cell → Run All** and analyze the results!
   - `sentiment_score` column added
   - Average phishing sentiment: **0.1042**
   - Average safe sentiment: **0.1678**
-
-**All requirements completed!**
